@@ -1,0 +1,11 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Flink binaries
+flink-1.17.2/
+flink-1.17.2-bin-scala_2.12.tgz
+
+# OS files
+.DS_Store
