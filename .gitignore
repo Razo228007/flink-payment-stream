@@ -1,11 +1,11 @@
-# Python
+# Python virtual environment
 venv/
-__pycache__/
-*.pyc
 
 # Flink binaries
 flink-1.17.2/
 flink-1.17.2-bin-scala_2.12.tgz
 
-# OS files
+# OS and cache files
+__pycache__/
+*.pyc
 .DS_Store
