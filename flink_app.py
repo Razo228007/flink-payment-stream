@@ -16,7 +16,7 @@
                      - Data parsing, filtering, and transformation
                      - Real-time event processing
 
- Author:             Your Name
+ Author:             Razmik Bazeyan
  Created On:         08.05.2026
  Last Modified:      13.05.2026
 
